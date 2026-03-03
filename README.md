@@ -17,9 +17,6 @@
 I am building **production-oriented, security-aware AI systems** from the ground up.  
 This roadmap documents my transition from **ML foundations → real-time CV → multi-module AI Security Dashboard**.
 
-> Accuracy is important.  
-> Reliability is critical.  
-> Security is mandatory.
 
 ---
 
