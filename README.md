@@ -1,8 +1,3 @@
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/7c5f616d-803c-41f1-97a8-86f789a7c267" alt="asd" />
-</p>
-
-
 # 🚀 Computer Vision + ML Security Roadmap
 ## 🧠 6-Month AI Systems Engineer Plan
 
